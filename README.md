@@ -14,3 +14,6 @@ abcdef
 am3287
 ## Favorite Professor
 ufildbfuil
+aja0346
+echo ## Favorite Professor
+Curtis chambers git status
